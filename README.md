@@ -1,4 +1,4 @@
 # GITHUB-demo
 This is my first Git Repository.
 <br>
-Author - Muskan Sharma
+Author - Muskan Kumari
